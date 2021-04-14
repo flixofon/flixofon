@@ -1,0 +1,5 @@
+- Added Start/Stop Support
+- Added Disk-Drive Option
+- Added Ticket-Requests
+- Added new Design-UI
+- Removed: Registration Form
