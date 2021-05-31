@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @flixofon
-- 👀 I’m coding, manage and build Server-Infrastructure and so much more...
-- 🌱 I’m currently coding a dashboard with the ProxmoxAPI
+- 👀 Administration and Management of Server Infrastructure
+- 🌱 I’m currently coding a Proxmox API wrapper & Flutter Mobile App
 - 📫 How to reach me: contact@flixofon.de
 
 ## Updates:
