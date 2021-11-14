@@ -26,7 +26,7 @@ For automating the infrastructure, I'm using ![Ansible](https://img.shields.io/b
  
 The website is delivered by ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) - a high performance webserver. Protected and managed by ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
  
-Code-Management and Continuous Integration realized ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+Code-Management and Continuous Integration realized with ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 </details>
 <!---
 flixofon/flixofon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
