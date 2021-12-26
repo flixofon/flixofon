@@ -1,6 +1,6 @@
 Facts:
 - 👀 Software development and maintenance of linux-based server infrastructure
-- 🌱 Current projects: OpenID Connect wrappers for Java and C++, cross-platform backup tools
+- 🌱 Current projects: linux backup tools, flutter application, different libraries 
 I'm using:
 <details>
 <summary>Languages, Frameworks etc.</summary>
