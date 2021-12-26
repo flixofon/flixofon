@@ -2,7 +2,7 @@ Facts:
 - 👀 Software development and maintenance of linux-based server infrastructure
 - 🌱 Current projects: linux backup tools, flutter application, different libraries 
 
-I'm using:
+software I use:
 <details>
 <summary>Languages, Frameworks etc.</summary>
 <br>
